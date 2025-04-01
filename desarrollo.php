@@ -130,7 +130,9 @@
 </head>
 <body>
 
-    
+    <?php
+include("menu.php");
+?>
 
     <div class="container">
         <div style="background-color: #0e2d3b; border: black 5px solid;"><marquee behavior="" direction="left"><h1>🚀 Agilismo en Programación de Software</h1></marquee> </div>
