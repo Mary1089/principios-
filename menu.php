@@ -17,13 +17,13 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
+            <a class="nav-link active" aria-current="page" href="inicio.php">INICIO</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">DESARRROLLO DEL CONTENIDO</a>
+            <a class="nav-link" href="desarrollo.php">DESARRROLLO DEL CONTENIDO</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">CONCLUSIONES</a>
+            <a class="nav-link" href="conclusiones.php">CONCLUSIONES</a>
           </li>
         </ul>
         <form class="d-flex" role="search">
